@@ -24,6 +24,6 @@ I made a pinterest inspiration board that is made of landscapes that offer a wid
 
 [Interactive Wallpaper](https://android.processing.org/tutorials/wallpapers/index.html/)
 
-[VR For Androids] (https://android.processing.org/tutorials/vr_intro/index.html)
+[VR For Androids](https://android.processing.org/tutorials/vr_intro/index.html)
 
 [Screens Ensyc](https://www.youtube.com/watch?v=oyEuk8j8imI/)
