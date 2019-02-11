@@ -16,6 +16,7 @@ A long term goal though would be working on something that also could be used wi
 I made a pinterest inspiration board that is made of landscapes that offer a wide variety of being animated. I would want to focus on subtle animations that would make the scene stand out, because the tiny animations are what makes the difference.
 
 
+
 **Helpful Links**
 
 [How to Make Pong](https://www.youtube.com/watch?v=TH4bl-5Nxk8/)
@@ -23,6 +24,8 @@ I made a pinterest inspiration board that is made of landscapes that offer a wid
 [Processing For Androids](https://android.processing.org/)
 
 [Interactive Wallpaper](https://android.processing.org/tutorials/wallpapers/index.html/)
+
+[Inspiration Images](https://pin.it/uzudcmg4deemk7)
 
 [VR For Androids](https://android.processing.org/tutorials/vr_intro/index.html)
 
