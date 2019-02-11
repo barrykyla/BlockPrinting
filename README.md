@@ -1,4 +1,4 @@
-# BlockPrinting
+# Block Printing
 CP3 Block printing materials along with project for the semester. My block print was inspired by herringbone flooring patters. 
 I wanted to draw a lot of inspiration for symetry and clean crisp lines. The original intention was to replicate the herringbone structure, but I had discovered a more interesting pattern that could be tessilated. 
 
